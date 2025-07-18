@@ -21,14 +21,13 @@ I am a MERN stack developer based in India, passionate about building cool web a
 `HTML` `CSS` `JavaScript` `TypeScript` `Java`
 
 **Frontend:**  
-`React.js` `Next.js` `Tailwind CSS` `Framer Motion` `shadcn`
+`React.js` `Next.js` `Tailwind CSS`
 
 **Backend:**  
-`Node.js` `Express.js` `MongoDB` `Supabase` `Drizzle`
+`Node.js` `Express.js` `MongoDB`
 
 **Tools & Libraries:**  
-`Git` `GitHub` `Figma` `Canva` `Zod` `React Hook Form` `TanStack Query`
-
+`Git` `GitHub` `Figma` `Canva`
 ---
 
 ## 📊 GitHub Stats
