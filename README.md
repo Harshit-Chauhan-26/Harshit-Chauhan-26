@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Harshit!
+# Hi there 👋 I'm Harshit Chauhan!
 
 I'm a Full-stack <developer /> and UI Designer
 
